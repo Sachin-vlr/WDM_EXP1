@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 10.8.24
+
+### DATE: 10-08-2024
+
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,7 +56,12 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/88c7b61c-5a36-47dd-9d72-e0d15a39a016)
+
+![image](https://github.com/user-attachments/assets/a03c18ea-2447-42b3-b84e-bbc393e20cf6)
+
+
+![image](https://github.com/user-attachments/assets/02581c58-8def-4bd6-b68b-702f3d70bb7d)
+
 
 ### PREPROCESSING
 
@@ -78,7 +85,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![304934462-005367af-c719-4891-a1cf-4f0423cb074d](https://github.com/Balaji-Jothiramalingam/WDM_EXP1/assets/114234865/9deb1e17-e266-42a3-96e7-8cdca98b6dce)
+
+![image](https://github.com/user-attachments/assets/b53dbd8a-93d4-49f5-adc2-42969e66a8bc)
+
+
+![image](https://github.com/user-attachments/assets/bc9bd77c-987c-43e7-b0a8-9e114296def9)
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -97,8 +108,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![304934499-ff1d83a9-c316-4f57-86a6-d4aabda857e0](https://github.com/Balaji-Jothiramalingam/WDM_EXP1/assets/114234865/e14ba07e-1700-4483-b433-26773a031fcb)
 
+![image](https://github.com/user-attachments/assets/48fc1ff4-ef16-403b-b8c2-d7e7a8bc2525)
+
+
+![image](https://github.com/user-attachments/assets/e98849cf-7a4c-4987-8e54-ebe085eae4cb)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -116,8 +130,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
-![304934558-5687b74e-cc92-4f2a-b387-d928c61338d0](https://github.com/Balaji-Jothiramalingam/WDM_EXP1/assets/114234865/7c95da2f-45d3-40df-93cf-a73a5b9e63f2)
+![image](https://github.com/user-attachments/assets/78e7acf1-e5c5-427f-9a1c-694ed5c282a3)
 
+
+![image](https://github.com/user-attachments/assets/3f161a55-66ae-4522-8806-662ed1633754)
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
